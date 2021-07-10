@@ -26,8 +26,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.bitvizor.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bitVizorC
-github_username:  bitvizorConsulting
-linkedin_username: bitVizorC
+github_username:  bitvizor
+linkedin_username: bitvizor-consulting
+facebook_username: bitvizorconsulting
 
 # Build settings
 theme: minima
