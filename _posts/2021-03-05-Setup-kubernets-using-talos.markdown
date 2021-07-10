@@ -5,8 +5,6 @@ date:   2020-03-05 06:16:30 +0500
 categories: k3s kubernetes 
 ---
 
-# Setup Kubernetes in minutes using Talos
-
 ### 1.  Get talosctl 
 
 Download and install `talosctl` binary

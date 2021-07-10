@@ -5,7 +5,7 @@ date:   2020-05-01 06:16:30 +0500
 categories: k3s kubernetes 
 ---
 
-## Setup K3s (Lightweight Kubernetes) cluster in seconds using k3os 
+## Introduction 
 
 We are going to setup one master and two worker nodes 
 

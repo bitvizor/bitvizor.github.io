@@ -5,7 +5,7 @@ date:   2020-02-26 11:24:13 +0500
 categories: k8s kubernetes talos
 ---
 
-# Setup an SDN using Open vSwitch - Hands-on Lab experiment
+## Introduction 
 
 This tutorial demonstrate how you can setup a simple SDN network, using the Faucet controller and Open vSwitch
 
