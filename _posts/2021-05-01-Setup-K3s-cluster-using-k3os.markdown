@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setup K3s (Lightweight Kubernetes) cluster in seconds using k3os "
-date:   2020-05-01 06:16:30 +0500
+date:   2020-05-01 06:00:30 +0500
 categories: k3s kubernetes 
 ---
 

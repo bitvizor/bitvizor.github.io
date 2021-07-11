@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing FreeSWITCH 1.10.5 on Ubuntu 18.04 | Ubuntu 20.04 LTS"
-date:   2020-07-10 23:18:30 +0500
+date:   2020-07-10 21:23:00 +0500
 categories: freeswitch voip telephony
 ---
     

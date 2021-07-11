@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setup Kubernetes in minutes using Talos"
-date:   2020-03-05 06:16:30 +0500
+date:   2020-03-05 06:12:30 +0500
 categories: k3s kubernetes 
 ---
 

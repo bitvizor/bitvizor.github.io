@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SDN using Open vSwitch and Faucet OpenFlow Controller"
-date:   2020-02-26 11:24:13 +0500
+date:   2020-02-26 01:33:01 +0500
 categories: k8s kubernetes talos
 ---
 
