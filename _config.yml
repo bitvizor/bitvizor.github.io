@@ -31,7 +31,8 @@ linkedin_username: bitvizor-consulting
 facebook_username: bitvizorconsulting
 
 
-disquss-shortname: blog-bitvizor-com
+disqus:
+  shortname: blog-bitvizor-com
 
 # Build settings
 theme: minima
