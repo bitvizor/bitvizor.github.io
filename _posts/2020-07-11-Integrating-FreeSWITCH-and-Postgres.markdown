@@ -8,7 +8,7 @@ categories: freeswitch postgresql integration
 
 ## Introduction
 
-FreeSWITCH uses XML for it's configuration, which was a popular choice back in 2008 when FreeSWITCH was founded by THE FOUNDER
+FreeSWITCH uses XML for it's configuration, which was a popular choice back in 2008 when FreeSWITCH was founded by Anthony Minessale
 
 However it also supports database and third party system integration for it's core db and configuration files, dialplan etc using modules.
 
