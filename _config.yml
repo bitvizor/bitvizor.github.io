@@ -30,6 +30,10 @@ github_username:  bitvizor
 linkedin_username: bitvizor-consulting
 facebook_username: bitvizorconsulting
 
+
+disucss:
+  shortname: blog-bitvizor-com
+  
 # Build settings
 theme: minima
 plugins:
