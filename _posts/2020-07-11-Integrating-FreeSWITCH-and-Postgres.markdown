@@ -2,7 +2,7 @@
 layout: post
 title:  "Tutorial: FreeSWITCH User Directory integration with PostgreSQL"
 date:   2021-07-11 06:09:01 +0500
-categories: openvswitch networking openstack
+categories: freeswitch postgresql integration
 ---
 
 
