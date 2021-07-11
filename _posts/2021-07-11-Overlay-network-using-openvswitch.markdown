@@ -11,7 +11,7 @@ This tutorial demonstrate how you can setup a simple Overlay network, using just
 
 The goal of the tutorial is to demonstrate a virtual switch between two sites/hosts using Open vSwitch
 
-![image](https://gist.githubusercontent.com/cyrenity/25e0181ce225ba98e52f6bb0dd3878f6/raw/4cb8b521f9014766dee2eb71b2613bae034dd988/l2-switch-using-openvswitch.png)
+![image](https://gist.githubusercontent.com/cyrenity/25e0181ce225ba98e52f6bb0dd3878f6/raw/1a67c98666456f3f98c9054bd0fca75c2385499f/l2-switch-using-openvswitch.png)
 
 
 ## Environment
