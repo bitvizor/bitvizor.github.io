@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting started with Apache Kafka Stream - Part 1"
+title:  "Kafka Series: Getting started with Apache Kafka Development - Part 1"
 date:   2021-07-13 12:37:00 +0500
 categories: java apache kafka ESB
 ---
