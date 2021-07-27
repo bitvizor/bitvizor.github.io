@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Create an overlay network using Open vSwitch"
+title:  "Create a distributed overlay network using Open vSwitch"
 date:   2021-07-11 11:24:13 +0500
 categories: openvswitch networking openstack
 ---
