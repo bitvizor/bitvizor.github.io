@@ -7,9 +7,9 @@ categories: odoo odoo-development python erp crm
 
 ## Introduction 
 
-This tutorial demonstrate how you can setup a simple SDN network, using the Faucet controller and Open vSwitch
+This guide takes you through the installation of Odoo community edition on a ubuntu 20.04 server.
 
-The goal of the tutorial is to demonstrate Open vSwitch and Faucet in an end-to-end way, that is, to show how it works from the Faucet controller configuration at the top, through the OpenFlow flow table, to the datapath processing. Along the way
+The goal of the tutorial is to demonstrate a production grade installation of Odoo server.
 
 ## Environment 
 * Ubuntu 20.04
