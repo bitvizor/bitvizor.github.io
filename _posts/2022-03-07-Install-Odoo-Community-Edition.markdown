@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing Odoo 15 Community Edition on Ubuntu 20.04 LTS"
-date:   2020-02-26 01:33:01 +0500
+date:   2022-03-07 01:33:01 +0500
 categories: odoo odoo-development python erp crm
 ---
 
