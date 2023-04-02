@@ -2,7 +2,7 @@
 layout: post
 title:  "Build a Voice Bot using FreeSWITCH and Whisper"
 date:   2023-04-01 23:11:00 +0500
-categories: freeswitch voip telephony ai speech asr tts openai/whisper speechbrain
+categories: freeswitch openai-whisper speechbrain 
 ---
     
 ### Introduction
