@@ -36,3 +36,9 @@ Create the following sample dialplan to test both ASR and TTS functionality
 
 You can create more advanced dialplans with ESL and scripts in various languages. See examples in scripts folder.
 
+
+## Important Links
+
+- [FreeSWITCH](https://freeswitch.org)
+- [Whisper](https://openai.com/research/whisper)
+- [Mod_Whisper](https://github.com/cyrenity/mod_whisper)
