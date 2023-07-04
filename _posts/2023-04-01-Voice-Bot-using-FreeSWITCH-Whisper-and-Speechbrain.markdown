@@ -7,12 +7,13 @@ categories: freeswitch openai-whisper speechbrain
     
 ### Introduction
 
-`mod_whisper` is a custom FreeSWITCH to integrate FreeSWITCH with your ASR & TTS Service over websockets.
+`mod_whisper` is a highly flexible and efficient solution designed specifically for seamlessly integrating FreeSWITCH with your ASR (Automatic Speech Recognition) and TTS (Text-to-Speech) Service using websockets. By leveraging `mod_whisper`, the process of integrating your existing ASR and TTS service over `websockets` becomes remarkably straightforward and time-efficient, setting it apart from the traditional MRCP (Media Resource Control Protocol) based ASR and TTS modules.
 
-Unlike `mrcp` based ASR && TSS modules, `mod_whisper` makes it simple and quick to integrate your existing ASR and TTS service over websockets 
+With `mod_whisper`, you can effortlessly establish a smooth connection between FreeSWITCH and your ASR and TTS service, empowering your applications with powerful voice recognition and generation capabilities. By following the comprehensive guidelines provided in the code repository, you can easily implement ASR and TTS services in Python, ensuring a reliable and reference-driven integration process.
 
-Follow the guidelines in code repository for refernce implementation of ASR & TTS service in python
- 
+By adopting `mod_whisper`, you can streamline the integration of your ASR and TTS services, enabling enhanced voice-based communication within your applications.
+
+
 ### How to setup 
 
 [View README.md](https://github.com/cyrenity/mod_whisper) to see the installation steps 
